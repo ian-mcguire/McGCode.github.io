@@ -32,7 +32,7 @@
     <body>
 			<div class="body-image">
        
-        <h1>Ian's Recipe Book</h1>
+        <h1>Ian's Reecipe Book</h1>
         
         <h2 style="text-align:center">Contents:</h2>
         
